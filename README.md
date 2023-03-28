@@ -67,5 +67,10 @@ Também vai aparecer o arquivo package-lock.json, que é responsável por "trava
 </br>
 </br>
 
+# Cobertura de Testes
+`````
+npm test -- --coverage
+`````
+
 # Documentação Oficial do Jest
 - https://jestjs.io/docs/getting-started
