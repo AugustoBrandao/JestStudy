@@ -23,6 +23,6 @@ describe('Requisito 1', () => {
     })
 
     it('A função recebe [a, b, c, d, e, f] e retorna false', () => {
-        expect(false).toEqual(numeros(['a', 'b', 'c', 'd', 'e', 'f']));
+        expect(false).toEqual(numeros(['1', 2, 3, 4, 5, 6]));
     })
-})
+});
